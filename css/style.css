@@ -525,6 +525,7 @@ section{
 
 .footer .share a:hover{
     background-color: var(--main-color);
+    transform: rotate(360deg);
 }
 
 .footer .links{
